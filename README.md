@@ -1,6 +1,6 @@
 # CUFoodApp
 
-**Live App Demo Link:** [CUFoodApp Live App Demo](https://zomatoclone.koushilmankali.in/)
+**Live App Demo Link:** [CUFoodApp Live App Demo](https://cu-food-app.vercel.app/)
 
 CUFoodApp is a online food ordering application.
 
